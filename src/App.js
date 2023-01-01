@@ -8,8 +8,8 @@ import Code from './Code';
   return (
     <>
       <Routes>
-        <Route exact path='/' element={<Home />}/>
-        <Route exact path='/codepad' element={<Code />}/>
+        <Route exact path='/' component={Home}/>
+        <Route exact path='/codepad' component={Code}/>
       </Routes>
     </>
   )
