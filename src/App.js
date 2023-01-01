@@ -9,7 +9,7 @@ import Code from './Code';
     <>
       <Routes>
         <Route path='/' component={Home}/>
-        <Route path='/codepad' component={Code}/>
+        <Route path={process.env.PUBLIC_URL+"/codepad"} component={Code}/>
       </Routes>
     </>
   )
