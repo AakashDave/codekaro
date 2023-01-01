@@ -7,11 +7,10 @@ import Code from './Code';
 
   return (
     <>
-      <Home/>
-      {/* <Routes>
+      <Routes>
         <Route path='/' component={Home}/>
         <Route path='/codepad' component={Code}/>
-      </Routes> */}
+      </Routes>
     </>
   )
 }
