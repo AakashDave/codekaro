@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.884a5659.css",
-    "main.js": "/static/js/main.0bb84675.js",
-    "static/media/home.svg": "/static/media/home.70b0ff775914c80db1e2783b661e4280.svg",
-    "index.html": "/index.html",
-    "main.884a5659.css.map": "/static/css/main.884a5659.css.map",
-    "main.0bb84675.js.map": "/static/js/main.0bb84675.js.map"
+    "main.css": "/codekaro/static/css/main.884a5659.css",
+    "main.js": "/codekaro/static/js/main.c0a8434c.js",
+    "static/media/home.svg": "/codekaro/static/media/home.70b0ff775914c80db1e2783b661e4280.svg",
+    "index.html": "/codekaro/index.html",
+    "main.884a5659.css.map": "/codekaro/static/css/main.884a5659.css.map",
+    "main.c0a8434c.js.map": "/codekaro/static/js/main.c0a8434c.js.map"
   },
   "entrypoints": [
     "static/css/main.884a5659.css",
-    "static/js/main.0bb84675.js"
+    "static/js/main.c0a8434c.js"
   ]
 }
