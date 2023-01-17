@@ -6,12 +6,10 @@ import Code from './Code';
  const App = () => {
 
   return (
-    <>
       <Routes>
-        <Route exact path="/" component={Home}/>
-        <Route path="/codepad" component={Code}/>
+        <Route path="/" element={<Home/>} />
+        <Route path="/codepad" element={<Code/>}/>
       </Routes>
-    </>
   )
 }
 
