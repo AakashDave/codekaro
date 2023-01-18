@@ -18,7 +18,7 @@ const Footer = () => {
       </div>
       <div className="footerstep2">
         <p>
-            Thanks For Using CodeKaro, ❤️ from Devloper : Aakash Dave
+            Thanks For Using CodeKaro, ❤️ from Developer : Aakash Dave
         </p>
       </div>
     </footer>

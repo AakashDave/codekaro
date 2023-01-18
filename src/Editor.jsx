@@ -1,6 +1,6 @@
 import React from 'react'
 import CodeMirror from "@uiw/react-codemirror";
-import {darcula} from '@uiw/codemirror-theme-darcula'
+import { xcodeDark } from '@uiw/codemirror-theme-xcode'
 import { useState } from 'react';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faCompressAlt,faExpandAlt} from '@fortawesome/free-solid-svg-icons'
@@ -31,7 +31,7 @@ const Editor = (props) => {
       className='code-mirror-wrapper'
       value={value}
       height="200px"
-      theme={darcula}
+      theme={xcodeDark}
       extensions={language()}
       onChange={handleChange}
     />

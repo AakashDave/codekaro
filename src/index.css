@@ -386,6 +386,9 @@ footer{
   .headNav{
     margin-top: 0;
   }
+  .openBtn {
+    margin-top: 0;
+}
   .home_head{
     margin: 0;
     width: 100%;
