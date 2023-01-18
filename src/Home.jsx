@@ -12,7 +12,7 @@ const Home = () => {
         <section id="home">
             <div className="home_head">
                 <h1>The Light-weight Editor to build your <span>front-end code</span> easily.</h1>
-                <h5> <span>CodeKaro</span>  is provides environment for front-end designers and developers. Build a website with user-friendly environment and without Signup.</h5>
+                <h5> <span>CodeKaro</span> provides environment for front-end designers and developers. Build a website with user-friendly environment and without Signup.</h5>
                 <a href='#about'>
                   <button className='custom-btn btn-16'>Explore More</button>
                 </a>
